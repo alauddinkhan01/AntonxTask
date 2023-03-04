@@ -1,0 +1,11 @@
+/vendor
+/node_modules
+/composer.lock
+/.env
+/public/uploads
+/public/mix-manifest.json
+/public/js/app.js
+/public/js/app.js.LICENSE.txt
+/public/css/app.css
+/public/web.config
+/public/rar
