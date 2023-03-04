@@ -1,5 +1,5 @@
 
-# ![ANTONX TASKS]
+# ANTONX TASKS
 
 Please follow the following steps to setup the projects
 
@@ -10,11 +10,6 @@ Clone the repository
 
 ```bash
   git clone https://github.com/alauddinkhan01/AntonxTask.git
-```
-Switch to the repo folder
-
-```bash
-  cd AntonxTask
 ```
 Switch to the repo folder
 
